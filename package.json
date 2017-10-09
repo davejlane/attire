@@ -1,0 +1,19 @@
+{
+  "name": "attire",
+  "version": "0.1.0",
+  "description": "UI pattern library for react applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davejlane/attire.git"
+  },
+  "author": "Dave Lane <davidlane2@mac.com> (https://github.com/davejlane/attire)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davejlane/attire/issues"
+  },
+  "homepage": "https://github.com/davejlane/attire#readme"
+}
