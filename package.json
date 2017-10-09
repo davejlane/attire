@@ -1,5 +1,5 @@
 {
-  "name": "attire",
+  "name": "react-attire",
   "version": "0.1.0",
   "description": "UI pattern library for react applications",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davejlane/attire.git"
+    "url": "git+https://github.com/davejlane/react-attire.git"
   },
-  "author": "Dave Lane <davidlane2@mac.com> (https://github.com/davejlane/attire)",
+  "author": "Dave Lane <davidlane2@mac.com> (https://github.com/davejlane/react-attire)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davejlane/attire/issues"
+    "url": "https://github.com/davejlane/react-attire/issues"
   },
-  "homepage": "https://github.com/davejlane/attire#readme"
+  "homepage": "https://github.com/davejlane/react-attire#readme"
 }
