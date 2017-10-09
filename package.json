@@ -1,5 +1,5 @@
 {
-  "name": "react-attire",
+  "name": "react-regalia",
   "version": "0.1.0",
   "description": "UI pattern library for react applications",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davejlane/react-attire.git"
+    "url": "git+https://github.com/davejlane/react-regalia.git"
   },
-  "author": "Dave Lane <davidlane2@mac.com> (https://github.com/davejlane/react-attire)",
+  "author": "Dave Lane <davidlane2@mac.com> (https://github.com/davejlane/react-regalia)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davejlane/react-attire/issues"
+    "url": "https://github.com/davejlane/react-regalia/issues"
   },
-  "homepage": "https://github.com/davejlane/react-attire#readme"
+  "homepage": "https://github.com/davejlane/react-regalia#readme"
 }
